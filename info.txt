@@ -1,0 +1,3 @@
+DOM (Document Object Model)
+Document is the entry point in DOM
+DOM is a part of Web APIs which interacts with Javascript
